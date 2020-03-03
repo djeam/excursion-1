@@ -29,3 +29,10 @@ body{
     color: aquamarine; 
 }
 
+/* FOOTER */
+
+.footer--copyright{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
