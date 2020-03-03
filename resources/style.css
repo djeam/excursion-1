@@ -9,3 +9,8 @@ body{
     font-size: 50px;
     color: #ffffff;
 }
+
+.link--cta <!-- cta STANDS FOR CALL TO ACTION--> {
+    font-size: 16px; 
+    color: aquamarine; 
+}
